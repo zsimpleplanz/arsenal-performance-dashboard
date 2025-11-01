@@ -1,5 +1,5 @@
 # Arsenal Football Performance Dashboard
-https://postimg.cc/RWB43vC0
+[![Arsenal-Dashboard-0.jpg](https://i.postimg.cc/htJj5GHV/Arsenal-Dashboard-0.jpg)](https://postimg.cc/RWB43vC0)
 
 Analyze Arsenal's Premier League performance across seasons with Python + Streamlit.
 
