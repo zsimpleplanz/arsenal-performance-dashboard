@@ -1,0 +1,267 @@
+Date,Season,HomeTeam,AwayTeam,FTHG,FTAG,FTR,is_home,goals_for,goals_against,goal_diff,result_binary
+2018-08-12,2018-19,Arsenal,Man City,0,2,A,1,0,2,-2,0
+2018-08-18,2018-19,Chelsea,Arsenal,3,2,H,0,2,3,-1,0
+2018-08-25,2018-19,Arsenal,West Ham,3,1,H,1,3,1,2,1
+2018-09-02,2018-19,Cardiff,Arsenal,2,3,A,0,3,2,1,1
+2018-09-15,2018-19,Newcastle,Arsenal,1,2,A,0,2,1,1,1
+2018-09-23,2018-19,Arsenal,Everton,2,0,H,1,2,0,2,1
+2018-09-29,2018-19,Arsenal,Watford,2,0,H,1,2,0,2,1
+2018-10-07,2018-19,Fulham,Arsenal,1,5,A,0,5,1,4,1
+2018-10-22,2018-19,Arsenal,Leicester,3,1,H,1,3,1,2,1
+2018-10-28,2018-19,Crystal Palace,Arsenal,2,2,D,0,2,2,0,0
+2018-11-03,2018-19,Arsenal,Liverpool,1,1,D,1,1,1,0,0
+2018-11-11,2018-19,Arsenal,Wolves,1,1,D,1,1,1,0,0
+2018-11-25,2018-19,Bournemouth,Arsenal,1,2,A,0,2,1,1,1
+2018-12-02,2018-19,Arsenal,Tottenham,4,2,H,1,4,2,2,1
+2018-12-05,2018-19,Man United,Arsenal,2,2,D,0,2,2,0,0
+2018-12-08,2018-19,Arsenal,Huddersfield,1,0,H,1,1,0,1,1
+2018-12-16,2018-19,Southampton,Arsenal,3,2,H,0,2,3,-1,0
+2018-12-22,2018-19,Arsenal,Burnley,3,1,H,1,3,1,2,1
+2018-12-26,2018-19,Brighton,Arsenal,1,1,D,0,1,1,0,0
+2018-12-29,2018-19,Liverpool,Arsenal,5,1,H,0,1,5,-4,0
+2019-01-01,2018-19,Arsenal,Fulham,4,1,H,1,4,1,3,1
+2019-01-12,2018-19,West Ham,Arsenal,1,0,H,0,0,1,-1,0
+2019-01-19,2018-19,Arsenal,Chelsea,2,0,H,1,2,0,2,1
+2019-01-29,2018-19,Arsenal,Cardiff,2,1,H,1,2,1,1,1
+2019-02-03,2018-19,Man City,Arsenal,3,1,H,0,1,3,-2,0
+2019-02-09,2018-19,Huddersfield,Arsenal,1,2,A,0,2,1,1,1
+2019-02-24,2018-19,Arsenal,Southampton,2,0,H,1,2,0,2,1
+2019-02-27,2018-19,Arsenal,Bournemouth,5,1,H,1,5,1,4,1
+2019-03-02,2018-19,Tottenham,Arsenal,1,1,D,0,1,1,0,0
+2019-03-10,2018-19,Arsenal,Man United,2,0,H,1,2,0,2,1
+2019-04-01,2018-19,Arsenal,Newcastle,2,0,H,1,2,0,2,1
+2019-04-07,2018-19,Everton,Arsenal,1,0,H,0,0,1,-1,0
+2019-04-15,2018-19,Watford,Arsenal,0,1,A,0,1,0,1,1
+2019-04-21,2018-19,Arsenal,Crystal Palace,2,3,A,1,2,3,-1,0
+2019-04-24,2018-19,Wolves,Arsenal,3,1,H,0,1,3,-2,0
+2019-04-28,2018-19,Leicester,Arsenal,3,0,H,0,0,3,-3,0
+2019-05-05,2018-19,Arsenal,Brighton,1,1,D,1,1,1,0,0
+2019-05-12,2018-19,Burnley,Arsenal,1,3,A,0,3,1,2,1
+2019-08-11,2019-20,Newcastle,Arsenal,0,1,A,0,1,0,1,1
+2019-08-17,2019-20,Arsenal,Burnley,2,1,H,1,2,1,1,1
+2019-08-24,2019-20,Liverpool,Arsenal,3,1,H,0,1,3,-2,0
+2019-09-01,2019-20,Arsenal,Tottenham,2,2,D,1,2,2,0,0
+2019-09-15,2019-20,Watford,Arsenal,2,2,D,0,2,2,0,0
+2019-09-22,2019-20,Arsenal,Aston Villa,3,2,H,1,3,2,1,1
+2019-09-30,2019-20,Man United,Arsenal,1,1,D,0,1,1,0,0
+2019-10-06,2019-20,Arsenal,Bournemouth,1,0,H,1,1,0,1,1
+2019-10-21,2019-20,Sheffield United,Arsenal,1,0,H,0,0,1,-1,0
+2019-10-27,2019-20,Arsenal,Crystal Palace,2,2,D,1,2,2,0,0
+2019-11-02,2019-20,Arsenal,Wolves,1,1,D,1,1,1,0,0
+2019-11-09,2019-20,Leicester,Arsenal,2,0,H,0,0,2,-2,0
+2019-11-23,2019-20,Arsenal,Southampton,2,2,D,1,2,2,0,0
+2019-12-01,2019-20,Norwich,Arsenal,2,2,D,0,2,2,0,0
+2019-12-05,2019-20,Arsenal,Brighton,1,2,A,1,1,2,-1,0
+2019-12-09,2019-20,West Ham,Arsenal,1,3,A,0,3,1,2,1
+2019-12-15,2019-20,Arsenal,Man City,0,3,A,1,0,3,-3,0
+2019-12-21,2019-20,Everton,Arsenal,0,0,D,0,0,0,0,0
+2019-12-26,2019-20,Bournemouth,Arsenal,1,1,D,0,1,1,0,0
+2019-12-29,2019-20,Arsenal,Chelsea,1,2,A,1,1,2,-1,0
+2020-01-01,2019-20,Arsenal,Man United,2,0,H,1,2,0,2,1
+2020-01-11,2019-20,Crystal Palace,Arsenal,1,1,D,0,1,1,0,0
+2020-01-18,2019-20,Arsenal,Sheffield United,1,1,D,1,1,1,0,0
+2020-01-21,2019-20,Chelsea,Arsenal,2,2,D,0,2,2,0,0
+2020-02-02,2019-20,Burnley,Arsenal,0,0,D,0,0,0,0,0
+2020-02-16,2019-20,Arsenal,Newcastle,4,0,H,1,4,0,4,1
+2020-02-23,2019-20,Arsenal,Everton,3,2,H,1,3,2,1,1
+2020-03-07,2019-20,Arsenal,West Ham,1,0,H,1,1,0,1,1
+2020-06-17,2019-20,Man City,Arsenal,3,0,H,0,0,3,-3,0
+2020-06-20,2019-20,Brighton,Arsenal,2,1,H,0,1,2,-1,0
+2020-06-25,2019-20,Southampton,Arsenal,0,2,A,0,2,0,2,1
+2020-07-01,2019-20,Arsenal,Norwich,4,0,H,1,4,0,4,1
+2020-07-04,2019-20,Wolves,Arsenal,0,2,A,0,2,0,2,1
+2020-07-07,2019-20,Arsenal,Leicester,1,1,D,1,1,1,0,0
+2020-07-12,2019-20,Tottenham,Arsenal,2,1,H,0,1,2,-1,0
+2020-07-15,2019-20,Arsenal,Liverpool,2,1,H,1,2,1,1,1
+2020-07-21,2019-20,Aston Villa,Arsenal,1,0,H,0,0,1,-1,0
+2020-07-26,2019-20,Arsenal,Watford,3,2,H,1,3,2,1,1
+2020-09-12,2020-21,Fulham,Arsenal,0,3,A,0,3,0,3,1
+2020-09-19,2020-21,Arsenal,West Ham,2,1,H,1,2,1,1,1
+2020-09-28,2020-21,Liverpool,Arsenal,3,1,H,0,1,3,-2,0
+2020-10-04,2020-21,Arsenal,Sheffield United,2,1,H,1,2,1,1,1
+2020-10-17,2020-21,Man City,Arsenal,1,0,H,0,0,1,-1,0
+2020-10-25,2020-21,Arsenal,Leicester,0,1,A,1,0,1,-1,0
+2020-11-01,2020-21,Man United,Arsenal,0,1,A,0,1,0,1,1
+2020-11-08,2020-21,Arsenal,Aston Villa,0,3,A,1,0,3,-3,0
+2020-11-22,2020-21,Leeds,Arsenal,0,0,D,0,0,0,0,0
+2020-11-29,2020-21,Arsenal,Wolves,1,2,A,1,1,2,-1,0
+2020-12-06,2020-21,Tottenham,Arsenal,2,0,H,0,0,2,-2,0
+2020-12-13,2020-21,Arsenal,Burnley,0,1,A,1,0,1,-1,0
+2020-12-16,2020-21,Arsenal,Southampton,1,1,D,1,1,1,0,0
+2020-12-19,2020-21,Everton,Arsenal,2,1,H,0,1,2,-1,0
+2020-12-26,2020-21,Arsenal,Chelsea,3,1,H,1,3,1,2,1
+2020-12-29,2020-21,Brighton,Arsenal,0,1,A,0,1,0,1,1
+2021-01-02,2020-21,West Brom,Arsenal,0,4,A,0,4,0,4,1
+2021-01-14,2020-21,Arsenal,Crystal Palace,0,0,D,1,0,0,0,0
+2021-01-18,2020-21,Arsenal,Newcastle,3,0,H,1,3,0,3,1
+2021-01-26,2020-21,Southampton,Arsenal,1,3,A,0,3,1,2,1
+2021-01-30,2020-21,Arsenal,Man United,0,0,D,1,0,0,0,0
+2021-02-02,2020-21,Wolves,Arsenal,2,1,H,0,1,2,-1,0
+2021-02-06,2020-21,Aston Villa,Arsenal,1,0,H,0,0,1,-1,0
+2021-02-14,2020-21,Arsenal,Leeds,4,2,H,1,4,2,2,1
+2021-02-21,2020-21,Arsenal,Man City,0,1,A,1,0,1,-1,0
+2021-02-28,2020-21,Leicester,Arsenal,1,3,A,0,3,1,2,1
+2021-03-06,2020-21,Burnley,Arsenal,1,1,D,0,1,1,0,0
+2021-03-14,2020-21,Arsenal,Tottenham,2,1,H,1,2,1,1,1
+2021-03-21,2020-21,West Ham,Arsenal,3,3,D,0,3,3,0,0
+2021-04-03,2020-21,Arsenal,Liverpool,0,3,A,1,0,3,-3,0
+2021-04-11,2020-21,Sheffield United,Arsenal,0,3,A,0,3,0,3,1
+2021-04-18,2020-21,Arsenal,Fulham,1,1,D,1,1,1,0,0
+2021-04-23,2020-21,Arsenal,Everton,0,1,A,1,0,1,-1,0
+2021-05-02,2020-21,Newcastle,Arsenal,0,2,A,0,2,0,2,1
+2021-05-09,2020-21,Arsenal,West Brom,3,1,H,1,3,1,2,1
+2021-05-12,2020-21,Chelsea,Arsenal,0,1,A,0,1,0,1,1
+2021-05-19,2020-21,Crystal Palace,Arsenal,1,3,A,0,3,1,2,1
+2021-05-23,2020-21,Arsenal,Brighton,2,0,H,1,2,0,2,1
+2021-08-13,2021-22,Brentford,Arsenal,2,0,H,0,0,2,-2,0
+2021-08-22,2021-22,Arsenal,Chelsea,0,2,A,1,0,2,-2,0
+2021-08-28,2021-22,Man City,Arsenal,5,0,H,0,0,5,-5,0
+2021-09-11,2021-22,Arsenal,Norwich,1,0,H,1,1,0,1,1
+2021-09-18,2021-22,Burnley,Arsenal,0,1,A,0,1,0,1,1
+2021-09-26,2021-22,Arsenal,Tottenham,3,1,H,1,3,1,2,1
+2021-10-02,2021-22,Brighton,Arsenal,0,0,D,0,0,0,0,0
+2021-10-18,2021-22,Arsenal,Crystal Palace,2,2,D,1,2,2,0,0
+2021-10-22,2021-22,Arsenal,Aston Villa,3,1,H,1,3,1,2,1
+2021-10-30,2021-22,Leicester,Arsenal,0,2,A,0,2,0,2,1
+2021-11-07,2021-22,Arsenal,Watford,1,0,H,1,1,0,1,1
+2021-11-20,2021-22,Liverpool,Arsenal,4,0,H,0,0,4,-4,0
+2021-11-27,2021-22,Arsenal,Newcastle,2,0,H,1,2,0,2,1
+2021-12-02,2021-22,Man United,Arsenal,3,2,H,0,2,3,-1,0
+2021-12-06,2021-22,Everton,Arsenal,2,1,H,0,1,2,-1,0
+2021-12-11,2021-22,Arsenal,Southampton,3,0,H,1,3,0,3,1
+2021-12-15,2021-22,Arsenal,West Ham,2,0,H,1,2,0,2,1
+2021-12-18,2021-22,Leeds,Arsenal,1,4,A,0,4,1,3,1
+2021-12-26,2021-22,Norwich,Arsenal,0,5,A,0,5,0,5,1
+2022-01-01,2021-22,Arsenal,Man City,1,2,A,1,1,2,-1,0
+2022-01-23,2021-22,Arsenal,Burnley,0,0,D,1,0,0,0,0
+2022-02-10,2021-22,Wolves,Arsenal,0,1,A,0,1,0,1,1
+2022-02-19,2021-22,Arsenal,Brentford,2,1,H,1,2,1,1,1
+2022-02-24,2021-22,Arsenal,Wolves,2,1,H,1,2,1,1,1
+2022-03-06,2021-22,Watford,Arsenal,2,3,A,0,3,2,1,1
+2022-03-13,2021-22,Arsenal,Leicester,2,0,H,1,2,0,2,1
+2022-03-16,2021-22,Arsenal,Liverpool,0,2,A,1,0,2,-2,0
+2022-03-19,2021-22,Aston Villa,Arsenal,0,1,A,0,1,0,1,1
+2022-04-04,2021-22,Crystal Palace,Arsenal,3,0,H,0,0,3,-3,0
+2022-04-09,2021-22,Arsenal,Brighton,1,2,A,1,1,2,-1,0
+2022-04-16,2021-22,Southampton,Arsenal,1,0,H,0,0,1,-1,0
+2022-04-20,2021-22,Chelsea,Arsenal,2,4,A,0,4,2,2,1
+2022-04-23,2021-22,Arsenal,Man United,3,1,H,1,3,1,2,1
+2022-05-01,2021-22,West Ham,Arsenal,1,2,A,0,2,1,1,1
+2022-05-08,2021-22,Arsenal,Leeds,2,1,H,1,2,1,1,1
+2022-05-12,2021-22,Tottenham,Arsenal,3,0,H,0,0,3,-3,0
+2022-05-16,2021-22,Newcastle,Arsenal,2,0,H,0,0,2,-2,0
+2022-05-22,2021-22,Arsenal,Everton,5,1,H,1,5,1,4,1
+2022-08-05,2022-23,Crystal Palace,Arsenal,0,2,A,0,2,0,2,1
+2022-08-13,2022-23,Arsenal,Leicester,4,2,H,1,4,2,2,1
+2022-08-20,2022-23,Bournemouth,Arsenal,0,3,A,0,3,0,3,1
+2022-08-27,2022-23,Arsenal,Fulham,2,1,H,1,2,1,1,1
+2022-08-31,2022-23,Arsenal,Aston Villa,2,1,H,1,2,1,1,1
+2022-09-04,2022-23,Man United,Arsenal,3,1,H,0,1,3,-2,0
+2022-09-18,2022-23,Brentford,Arsenal,0,3,A,0,3,0,3,1
+2022-10-01,2022-23,Arsenal,Tottenham,3,1,H,1,3,1,2,1
+2022-10-09,2022-23,Arsenal,Liverpool,3,2,H,1,3,2,1,1
+2022-10-16,2022-23,Leeds,Arsenal,0,1,A,0,1,0,1,1
+2022-10-23,2022-23,Southampton,Arsenal,1,1,D,0,1,1,0,0
+2022-10-30,2022-23,Arsenal,Nott'm Forest,5,0,H,1,5,0,5,1
+2022-11-06,2022-23,Chelsea,Arsenal,0,1,A,0,1,0,1,1
+2022-11-12,2022-23,Wolves,Arsenal,0,2,A,0,2,0,2,1
+2022-12-26,2022-23,Arsenal,West Ham,3,1,H,1,3,1,2,1
+2022-12-31,2022-23,Brighton,Arsenal,2,4,A,0,4,2,2,1
+2023-01-03,2022-23,Arsenal,Newcastle,0,0,D,1,0,0,0,0
+2023-01-15,2022-23,Tottenham,Arsenal,0,2,A,0,2,0,2,1
+2023-01-22,2022-23,Arsenal,Man United,3,2,H,1,3,2,1,1
+2023-02-04,2022-23,Everton,Arsenal,1,0,H,0,0,1,-1,0
+2023-02-11,2022-23,Arsenal,Brentford,1,1,D,1,1,1,0,0
+2023-02-15,2022-23,Arsenal,Man City,1,3,A,1,1,3,-2,0
+2023-02-18,2022-23,Aston Villa,Arsenal,2,4,A,0,4,2,2,1
+2023-02-25,2022-23,Leicester,Arsenal,0,1,A,0,1,0,1,1
+2023-03-01,2022-23,Arsenal,Everton,4,0,H,1,4,0,4,1
+2023-03-04,2022-23,Arsenal,Bournemouth,3,2,H,1,3,2,1,1
+2023-03-12,2022-23,Fulham,Arsenal,0,3,A,0,3,0,3,1
+2023-03-19,2022-23,Arsenal,Crystal Palace,4,1,H,1,4,1,3,1
+2023-04-01,2022-23,Arsenal,Leeds,4,1,H,1,4,1,3,1
+2023-04-09,2022-23,Liverpool,Arsenal,2,2,D,0,2,2,0,0
+2023-04-16,2022-23,West Ham,Arsenal,2,2,D,0,2,2,0,0
+2023-04-21,2022-23,Arsenal,Southampton,3,3,D,1,3,3,0,0
+2023-04-26,2022-23,Man City,Arsenal,4,1,H,0,1,4,-3,0
+2023-05-02,2022-23,Arsenal,Chelsea,3,1,H,1,3,1,2,1
+2023-05-07,2022-23,Newcastle,Arsenal,0,2,A,0,2,0,2,1
+2023-05-14,2022-23,Arsenal,Brighton,0,3,A,1,0,3,-3,0
+2023-05-20,2022-23,Nott'm Forest,Arsenal,1,0,H,0,0,1,-1,0
+2023-05-28,2022-23,Arsenal,Wolves,5,0,H,1,5,0,5,1
+2023-08-12,2023-24,Arsenal,Nott'm Forest,2,1,H,1,2,1,1,1
+2023-08-21,2023-24,Crystal Palace,Arsenal,0,1,A,0,1,0,1,1
+2023-08-26,2023-24,Arsenal,Fulham,2,2,D,1,2,2,0,0
+2023-09-03,2023-24,Arsenal,Man United,3,1,H,1,3,1,2,1
+2023-09-17,2023-24,Everton,Arsenal,0,1,A,0,1,0,1,1
+2023-09-24,2023-24,Arsenal,Tottenham,2,2,D,1,2,2,0,0
+2023-09-30,2023-24,Bournemouth,Arsenal,0,4,A,0,4,0,4,1
+2023-10-08,2023-24,Arsenal,Man City,1,0,H,1,1,0,1,1
+2023-10-21,2023-24,Chelsea,Arsenal,2,2,D,0,2,2,0,0
+2023-10-28,2023-24,Arsenal,Sheffield United,5,0,H,1,5,0,5,1
+2023-11-04,2023-24,Newcastle,Arsenal,1,0,H,0,0,1,-1,0
+2023-11-11,2023-24,Arsenal,Burnley,3,1,H,1,3,1,2,1
+2023-11-25,2023-24,Brentford,Arsenal,0,1,A,0,1,0,1,1
+2023-12-02,2023-24,Arsenal,Wolves,2,1,H,1,2,1,1,1
+2023-12-05,2023-24,Luton,Arsenal,3,4,A,0,4,3,1,1
+2023-12-09,2023-24,Aston Villa,Arsenal,1,0,H,0,0,1,-1,0
+2023-12-17,2023-24,Arsenal,Brighton,2,0,H,1,2,0,2,1
+2023-12-23,2023-24,Liverpool,Arsenal,1,1,D,0,1,1,0,0
+2023-12-28,2023-24,Arsenal,West Ham,0,2,A,1,0,2,-2,0
+2023-12-31,2023-24,Fulham,Arsenal,2,1,H,0,1,2,-1,0
+2024-01-20,2023-24,Arsenal,Crystal Palace,5,0,H,1,5,0,5,1
+2024-01-30,2023-24,Nott'm Forest,Arsenal,1,2,A,0,2,1,1,1
+2024-02-04,2023-24,Arsenal,Liverpool,3,1,H,1,3,1,2,1
+2024-02-11,2023-24,West Ham,Arsenal,0,6,A,0,6,0,6,1
+2024-02-17,2023-24,Burnley,Arsenal,0,5,A,0,5,0,5,1
+2024-02-24,2023-24,Arsenal,Newcastle,4,1,H,1,4,1,3,1
+2024-03-04,2023-24,Sheffield United,Arsenal,0,6,A,0,6,0,6,1
+2024-03-09,2023-24,Arsenal,Brentford,2,1,H,1,2,1,1,1
+2024-03-31,2023-24,Man City,Arsenal,0,0,D,0,0,0,0,0
+2024-04-03,2023-24,Arsenal,Luton,2,0,H,1,2,0,2,1
+2024-04-06,2023-24,Brighton,Arsenal,0,3,A,0,3,0,3,1
+2024-04-14,2023-24,Arsenal,Aston Villa,0,2,A,1,0,2,-2,0
+2024-04-20,2023-24,Wolves,Arsenal,0,2,A,0,2,0,2,1
+2024-04-23,2023-24,Arsenal,Chelsea,5,0,H,1,5,0,5,1
+2024-04-28,2023-24,Tottenham,Arsenal,2,3,A,0,3,2,1,1
+2024-05-04,2023-24,Arsenal,Bournemouth,3,0,H,1,3,0,3,1
+2024-05-12,2023-24,Man United,Arsenal,0,1,A,0,1,0,1,1
+2024-05-19,2023-24,Arsenal,Everton,2,1,H,1,2,1,1,1
+2024-08-17,2024-25,Arsenal,Wolves,2,0,H,1,2,0,2,1
+2024-08-24,2024-25,Aston Villa,Arsenal,0,2,A,0,2,0,2,1
+2024-08-31,2024-25,Arsenal,Brighton,1,1,D,1,1,1,0,0
+2024-09-15,2024-25,Tottenham,Arsenal,0,1,A,0,1,0,1,1
+2024-09-22,2024-25,Man City,Arsenal,2,2,D,0,2,2,0,0
+2024-09-28,2024-25,Arsenal,Leicester,4,2,H,1,4,2,2,1
+2024-10-05,2024-25,Arsenal,Southampton,3,1,H,1,3,1,2,1
+2024-10-19,2024-25,Bournemouth,Arsenal,2,0,H,0,0,2,-2,0
+2024-10-27,2024-25,Arsenal,Liverpool,2,2,D,1,2,2,0,0
+2024-11-02,2024-25,Newcastle,Arsenal,1,0,H,0,0,1,-1,0
+2024-11-10,2024-25,Chelsea,Arsenal,1,1,D,0,1,1,0,0
+2024-11-23,2024-25,Arsenal,Nott'm Forest,3,0,H,1,3,0,3,1
+2024-11-30,2024-25,West Ham,Arsenal,2,5,A,0,5,2,3,1
+2024-12-04,2024-25,Arsenal,Man United,2,0,H,1,2,0,2,1
+2024-12-08,2024-25,Fulham,Arsenal,1,1,D,0,1,1,0,0
+2024-12-14,2024-25,Arsenal,Everton,0,0,D,1,0,0,0,0
+2024-12-21,2024-25,Crystal Palace,Arsenal,1,5,A,0,5,1,4,1
+2024-12-27,2024-25,Arsenal,Ipswich,1,0,H,1,1,0,1,1
+2025-01-01,2024-25,Brentford,Arsenal,1,3,A,0,3,1,2,1
+2025-01-04,2024-25,Brighton,Arsenal,1,1,D,0,1,1,0,0
+2025-01-15,2024-25,Arsenal,Tottenham,2,1,H,1,2,1,1,1
+2025-01-18,2024-25,Arsenal,Aston Villa,2,2,D,1,2,2,0,0
+2025-01-25,2024-25,Wolves,Arsenal,0,1,A,0,1,0,1,1
+2025-02-02,2024-25,Arsenal,Man City,5,1,H,1,5,1,4,1
+2025-02-15,2024-25,Leicester,Arsenal,0,2,A,0,2,0,2,1
+2025-02-22,2024-25,Arsenal,West Ham,0,1,A,1,0,1,-1,0
+2025-02-26,2024-25,Nott'm Forest,Arsenal,0,0,D,0,0,0,0,0
+2025-03-09,2024-25,Man United,Arsenal,1,1,D,0,1,1,0,0
+2025-03-16,2024-25,Arsenal,Chelsea,1,0,H,1,1,0,1,1
+2025-04-01,2024-25,Arsenal,Fulham,2,1,H,1,2,1,1,1
+2025-04-05,2024-25,Everton,Arsenal,1,1,D,0,1,1,0,0
+2025-04-12,2024-25,Arsenal,Brentford,1,1,D,1,1,1,0,0
+2025-04-20,2024-25,Ipswich,Arsenal,0,4,A,0,4,0,4,1
+2025-04-23,2024-25,Arsenal,Crystal Palace,2,2,D,1,2,2,0,0
+2025-05-03,2024-25,Arsenal,Bournemouth,1,2,A,1,1,2,-1,0
+2025-05-11,2024-25,Liverpool,Arsenal,2,2,D,0,2,2,0,0
+2025-05-18,2024-25,Arsenal,Newcastle,1,0,H,1,1,0,1,1
+2025-05-25,2024-25,Southampton,Arsenal,1,2,A,0,2,1,1,1
